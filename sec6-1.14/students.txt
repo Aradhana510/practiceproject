@@ -1,0 +1,4 @@
+StudentID,FirstName,LastName,Grade
+101,     John,     Doe,     8
+102,     Jane,     Smith,     9
+103,    Michael,     Johnson,     7

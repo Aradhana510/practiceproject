@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\studentsinfo\bin\Debug\net8.0\studentsinfo.exe
+C:\Users\a\Desktop\studentsinfo\bin\Debug\net8.0\studentsinfo.deps.json
+C:\Users\a\Desktop\studentsinfo\bin\Debug\net8.0\studentsinfo.runtimeconfig.json
+C:\Users\a\Desktop\studentsinfo\bin\Debug\net8.0\studentsinfo.dll
+C:\Users\a\Desktop\studentsinfo\bin\Debug\net8.0\studentsinfo.pdb
+C:\Users\a\Desktop\studentsinfo\obj\Debug\net8.0\studentsinfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\studentsinfo\obj\Debug\net8.0\studentsinfo.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\studentsinfo\obj\Debug\net8.0\studentsinfo.AssemblyInfo.cs
+C:\Users\a\Desktop\studentsinfo\obj\Debug\net8.0\studentsinfo.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\studentsinfo\obj\Debug\net8.0\studentsinfo.dll
+C:\Users\a\Desktop\studentsinfo\obj\Debug\net8.0\refint\studentsinfo.dll
+C:\Users\a\Desktop\studentsinfo\obj\Debug\net8.0\studentsinfo.pdb
+C:\Users\a\Desktop\studentsinfo\obj\Debug\net8.0\studentsinfo.genruntimeconfig.cache
+C:\Users\a\Desktop\studentsinfo\obj\Debug\net8.0\ref\studentsinfo.dll
